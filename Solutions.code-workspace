@@ -1,0 +1,64 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "./GamePlatform"
+		},
+		{
+			"path": "./MegaStore"
+		},
+		{
+			"path": "./BoatMovements"
+		},
+		{
+			"path": "./RoutePlanner"
+		},
+		{
+			"path": "./QuadraticEquation"
+		},
+		{
+			"path": "./MalwareAnalysis"
+		},
+		{
+			"path": "./MergeNames"
+		},
+		{
+			"path": "./Folders"
+		},
+		{
+			"path": "./Song"
+		},
+		{
+			"path": "./BinarySearchTree"
+		},
+		{
+			"path": "./DecoratorStream"
+		},
+		{
+			"path": "./AccountTest"
+		},
+		{
+			"path": "./AccountTest.Test"
+		},
+		{
+			"path": "./TwoSum"
+		},
+		{
+			"path": "./TrainComposition"
+		},
+		{
+			"path": "./Account"
+		},
+		{
+			"path": "./SortedSearch"
+		},
+		{
+			"path": "./UserInput"
+		},
+		{
+			"path": "./AlertService"
+		}
+	]
+}
